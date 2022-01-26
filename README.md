@@ -12,7 +12,7 @@ Perhaps the first commercial software digitizer ever written (at least for Apple
 Product was given away (Freeware) but the source was sold for $15 if you mailed me a check.
 
 #### Splash
-[Splash Page](resources/SplashPage.png?raw=true"Splash Page")
+![Splash Page](resources/SplashPage.png?raw=true"Splash Page")
 
 ### Disk Image
 
